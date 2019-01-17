@@ -23,7 +23,18 @@
             android:background="?attr/colorPrimary"
             app:layout_scrollFlags="scroll|enterAlways"
             app:popupTheme="@style/AppTheme.PopupOverlay"
-            app:title="@string/app_name">
+            >
+            <!--<EditText-->
+                <!--android:id="@+id/password"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:hint="Country"-->
+                <!--android:imeActionId="6"-->
+                <!--android:imeActionLabel="@string/action_sign_in_short"-->
+                <!--android:imeOptions="actionUnspecified"-->
+                <!--android:inputType="textPassword"-->
+                <!--android:maxLines="1"-->
+                <!--android:singleLine="true" />-->
 
         </android.support.v7.widget.Toolbar>
 
